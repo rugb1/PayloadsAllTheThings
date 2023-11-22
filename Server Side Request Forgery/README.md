@@ -765,8 +765,6 @@ http://169.254.169.254/metadata/instance/network/interface/0/ipv4/ipAddress/0/pu
 
 ### SSRF URL for OpenStack/RackSpace
 
-(header required? unknown)
-
 ```powershell
 http://169.254.169.254/openstack
 ```
